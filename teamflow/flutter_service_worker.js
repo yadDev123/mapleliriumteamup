@@ -3,18 +3,28 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
+<<<<<<< HEAD
 const RESOURCES = {"flutter_bootstrap.js": "f7ab7d50520a16805964f9f2b88aec6c",
 "version.json": "5141fa43a39c894f7ad58be3cdda0132",
 "favicon.ico": "20a231481fc6f9ac2194fd8e2b39a499",
 "index.html": "0d98123ad354786944b578fa592118f6",
 "/": "0d98123ad354786944b578fa592118f6",
 "main.dart.js": "aa522a93ed3d30998f235a8025f180f1",
+=======
+const RESOURCES = {"flutter_bootstrap.js": "ed6afaa32bac07b699fcabe64df87759",
+"version.json": "5141fa43a39c894f7ad58be3cdda0132",
+"favicon.ico": "20a231481fc6f9ac2194fd8e2b39a499",
+"index.html": "6ca95b9611ffba6a7f0edeba161759d8",
+"/": "6ca95b9611ffba6a7f0edeba161759d8",
+"main.dart.js": "87364f18a6e08db2e1ac029fcd16aaf2",
+>>>>>>> 9477b026228ce82390060fa76423796b667ba925
 "flutter.js": "f393d3c16b631f36852323de8e583132",
 "favicon.png": "61093ea7785992d093ba114d25353d32",
 "icons/icon-192.png": "e0179d60c3c81d9af65f934f88c154e3",
 "icons/Icon-maskable-192.png": "e0179d60c3c81d9af65f934f88c154e3",
 "icons/Icon-maskable-512.png": "5f0ad4d0beef62bfe6c0ca9a23f1ed9b",
 "icons/icon-512.png": "5f0ad4d0beef62bfe6c0ca9a23f1ed9b",
+<<<<<<< HEAD
 "manifest.json": "e5d78e910646910808bc8c539f9674f4",
 "assets/web/favicon.png": "61093ea7785992d093ba114d25353d32",
 "assets/AssetManifest.json": "141052df3023ea1e8fe15947fc268929",
@@ -27,12 +37,28 @@ const RESOURCES = {"flutter_bootstrap.js": "f7ab7d50520a16805964f9f2b88aec6c",
 "assets/AssetManifest.bin": "9118dfbf82722a1a0ab3e4e7b285d2ec",
 "assets/fonts/MaterialIcons-Regular.otf": "a869b179fc044f31e41e5eb4e5de6f1c",
 "assets/assets/android.png": "f11239c7f122ddb44022056c827c764d",
+=======
+"manifest.json": "00569d4973f3bde97f1437475c4af0d7",
+"assets/web/favicon.png": "61093ea7785992d093ba114d25353d32",
+"assets/AssetManifest.json": "64d4e0c6b7d430c7c796e97f3d75cc53",
+"assets/NOTICES": "49130d310cd4aa06fc11230e20617cfc",
+"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/AssetManifest.bin.json": "f4a3f7e9bc03f2566b69c3181b89d0fb",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
+"assets/packages/chatbox/assets/loading.gif": "3f2590067056b4f0630d5b360e694fce",
+"assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
+"assets/AssetManifest.bin": "9c47a198db10f108a268ec1ba5905539",
+"assets/fonts/MaterialIcons-Regular.otf": "a869b179fc044f31e41e5eb4e5de6f1c",
+>>>>>>> 9477b026228ce82390060fa76423796b667ba925
 "assets/assets/logo.png": "95f827cba2ebc3cf5541f1c71b808a16",
 "assets/assets/Vicaregivers2.png": "be130012928b2397f45d402949df9c2f",
 "assets/assets/Vicaregivers3.png": "2b75d12844f4c8998e9df9ff150419e9",
 "assets/assets/profile.jpeg": "1a759caacf9f02692b7cdc531a038f3b",
+<<<<<<< HEAD
 "assets/assets/web.png": "9c628619f91f7c3e5df129b35b854cfe",
 "assets/assets/ios.png": "e11243bccbd55cb8fc32ac83d07c0e41",
+=======
+>>>>>>> 9477b026228ce82390060fa76423796b667ba925
 "assets/assets/logo_2.png": "be28050533eccbefc66e54126e5c77db",
 "assets/assets/teamup_logo.png": "7183e041eea630d4f8c4b3392f01358a",
 "assets/assets/Vicaregivers.png": "e0a898d82ce405dbc11a79706ffb0622",
