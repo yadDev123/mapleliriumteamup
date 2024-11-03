@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
-    "name": "TeamFlow",
-    "short_name": "TeamFlow",
-=======
-    "name": "TeamUp",
-    "short_name": "TeamUp",
->>>>>>> 9477b026228ce82390060fa76423796b667ba925
+    "name": "teamup_website",
+    "short_name": "teamup_website",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

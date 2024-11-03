@@ -1,12 +1,20 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-<<<<<<< HEAD
-  <base href="/teamflow/app/">
-=======
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
   <base href="/teamflow/">
->>>>>>> 9477b026228ce82390060fa76423796b667ba925
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
@@ -15,61 +23,16 @@
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="TeamUp">
+  <meta name="apple-mobile-web-app-title" content="teamup_website">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
-  <link rel="shortcut icon" href="favicon.ico" type="images/x-icon">
-  <link rel="icon" href="favicon.ico" type="images/x-icon">
 
   <!-- Favicon -->
-  <link rel="icon" type="image/png" href="favicon.png" />
+  <link rel="icon" type="image/png" href="favicon.png"/>
 
-<<<<<<< HEAD
-  <title>TeamFlow</title>
-=======
-  <title>TeamUp</title>
->>>>>>> 9477b026228ce82390060fa76423796b667ba925
+  <title>teamup_website</title>
   <link rel="manifest" href="manifest.json">
-  <script type="text/javascript">
-    window.flutterWebRenderer = "html";
-  </script>
-  <script>
-    // The value below is injected by flutter build, do not touch.
-<<<<<<< HEAD
-    const serviceWorkerVersion = "1909961477";
-=======
-    const serviceWorkerVersion = "2238130097";
->>>>>>> 9477b026228ce82390060fa76423796b667ba925
-  </script>
-  <!-- This script adds the flutter initialization JS code -->
-  <script src="flutter.js" defer></script>
-  <script>
-    if ("serviceWorker" in navigator) {
-      window.addEventListener("load", function () {
-        // Register the default service worker for Flutter web apps
-        navigator.serviceWorker.register("/flutter_service_worker.js");
-      });
-    }
-  </script>
-
 </head>
-
 <body>
-  <script>
-    window.addEventListener('load', function (ev) {
-      // Download main.dart.js
-      _flutter.loader.loadEntrypoint({
-        serviceWorker: {
-          serviceWorkerVersion: serviceWorkerVersion,
-        },
-        onEntrypointLoaded: function (engineInitializer) {
-
-          engineInitializer.initializeEngine().then(function (appRunner) {
-            appRunner.runApp();
-          });
-        }
-      });
-    });
-  </script>
+  <script src="flutter_bootstrap.js" async></script>
 </body>
-
 </html>

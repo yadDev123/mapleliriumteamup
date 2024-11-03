@@ -3,26 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-<<<<<<< HEAD
 const RESOURCES = {"flutter_bootstrap.js": "a47f9022459bceb86e486b9efac0fc56",
 "version.json": "811360934c53a020da6be692edaed1f0",
 "index.html": "9af584228f1ae0ed5d926ff499e84430",
 "/": "9af584228f1ae0ed5d926ff499e84430",
 "main.dart.js": "472880c96c46b301b4ecc2ce60af9be2",
-=======
-const RESOURCES = {"flutter_bootstrap.js": "7fa194557a350fbc406fc015426aecc8",
-"version.json": "62ab231f10bb93ace18058028d884494",
-"index.html": "0fab9ef6419db076dc9e8be72320ae12",
-"/": "0fab9ef6419db076dc9e8be72320ae12",
-"main.dart.js": "0f007d7c3d67263b68a69feaede797f7",
->>>>>>> 9477b026228ce82390060fa76423796b667ba925
 "flutter.js": "f393d3c16b631f36852323de8e583132",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-<<<<<<< HEAD
 "manifest.json": "3da3460dd2c1a6dabcd9e587a8b8b245",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/NOTICES": "151b0bacf84aaf6bbb1b0550962540f9",
@@ -32,21 +23,6 @@ const RESOURCES = {"flutter_bootstrap.js": "7fa194557a350fbc406fc015426aecc8",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c",
 "assets/fonts/MaterialIcons-Regular.otf": "05197c3507ad5fac14b57f5f8eb5ced0",
-=======
-"manifest.json": "cd2316417f0bb5643161fb8a820ba1a1",
-"assets/images/screenshot1.png": "a7aeaf5dc4860acec17f419c80d10099",
-"assets/images/screenshot2.png": "747f5c8d41fff7d17ef082a343ed83ef",
-"assets/images/screenshot3.png": "e1312fafbb2e6aa8effd9dbd90a5907b",
-"assets/images/screenshot4.png": "ce8ce6c1f603d7ee09f039a7f8232b72",
-"assets/AssetManifest.json": "7e2ab6f9cca7909dee4ddf6485340227",
-"assets/NOTICES": "03c113d3341b7320af8f80d0f603a380",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/AssetManifest.bin.json": "b3ec4aa2266e25632c4713ae111262c9",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
-"assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
-"assets/AssetManifest.bin": "b8dd29e6b66095333e10cab4af4ffc54",
-"assets/fonts/MaterialIcons-Regular.otf": "4d58120054f35352aaa11497f8bacc7c",
->>>>>>> 9477b026228ce82390060fa76423796b667ba925
 "canvaskit/skwasm.js": "694fda5704053957c2594de355805228",
 "canvaskit/skwasm.js.symbols": "262f4827a1317abb59d71d6c587a93e2",
 "canvaskit/canvaskit.js.symbols": "48c83a2ce573d9692e8d970e288d75f7",
